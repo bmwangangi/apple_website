@@ -1,5 +1,5 @@
 {
   "build": {
-    "ignoreBuildStep": true
+    "ignoreCommand": "echo 'Skipping build...'"
   }
 }
